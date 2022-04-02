@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, eu sou Wildson!👋
+
+- Sou estudante de Engenharia de Controle e Automação na Universidade Federal da Bahia (UFBA)
+- Desenvolvo alguns projetos de eletrônica por hobby. Alguns deles você pode ver em meu perfil no <a href="https://www.instagram.com/wildson.lab/" target="_blank">Instagram</a> ou no meu canal no <a href="https://www.youtube.com/channel/UCzMYwyFbVO0YPulvmoFMylg"  target="_blank">YouTube</a>
+- Tenho interesse por IoT, sistemas embarcados, eletrônica e robótica
+- Atualmente estou aprofundando meus estudos nas linguagens C/C++ e Python
 
 <!--
 **wildson-lab/wildson-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
